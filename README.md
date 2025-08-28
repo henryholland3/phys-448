@@ -21,7 +21,9 @@ Data: All data sets needed to complete the studios and homework for the course. 
 
 Studios: Studio assignments for each week of the class. Most studio materials are interactive python notebooks with "fill-in-the-blank" code sections and interspersed questions.
 
-Problem Set Notebooks: Notebooks for the 6 problem sets included in the course. Homework sets include a mix of open-ended questions and coding assignments; only motebooks for coding assignments are made available here. 
+Problem Set Notebooks: Notebooks for the 6 problem sets included in the course. Homework sets include a mix of open-ended questions and coding assignments; only notebooks for coding assignments are made available here. 
+
+Solutions: Solutions are available on the class Canvas site. No solutions will be published here. 
 
 
 
